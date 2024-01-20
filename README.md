@@ -1,10 +1,9 @@
 
-  # Landing Page Template (Community) (Copy)
+<img src="https://depo-events.netlify.app/photo_2024-01-20_21-26-34.jpg" style="borde-radius:24px" alt="Project Banner">
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+Landing Page Template Community
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
+Visit to web site: https://modern-web-pro.netlify.app/
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" style="borde-radius:24px" alt="Project Banner">
   
